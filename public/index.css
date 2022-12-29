@@ -1,0 +1,277 @@
+.mediaViewInfo {
+	--web-view-name: Index;
+	--web-view-id: Index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Index {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background: linear-gradient(141.9deg, rgba(46,46,46,1) 0%, rgba(67,67,67,1) 100%);
+	overflow: hidden;
+	--web-view-name: Index;
+	--web-view-id: Index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Artwork_50 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 199.917px;
+	height: 145.059px;
+	left: 437px;
+	top: 444.47px;
+	overflow: visible;
+}
+#Group_6 {
+	position: absolute;
+	width: 199.917px;
+	height: 145.059px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: rgba(255,127,0,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 183.807px;
+	height: 55.37px;
+	left: 5.07px;
+	top: 77.579px;
+}
+#Group_4 {
+	position: absolute;
+	width: 113.347px;
+	height: 69.54px;
+	left: 46.642px;
+	top: 4.823px;
+	overflow: visible;
+}
+#Path_5 {
+	fill: rgba(16,115,199,1);
+	stroke: rgba(16,115,199,1);
+	stroke-width: 0.7860857844352722px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 114.133px;
+	height: 70.283px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_5 {
+	position: absolute;
+	width: 69.498px;
+	height: 47.124px;
+	left: 68.643px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_6 {
+	fill: rgba(16,115,199,1);
+	stroke: rgba(16,115,199,1);
+	stroke-width: 0.7860857248306274px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 70.284px;
+	height: 47.972px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_7 {
+	fill: rgba(16,115,199,1);
+	stroke: rgba(16,115,199,1);
+	stroke-width: 0.7860856652259827px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 56.42px;
+	height: 73.828px;
+	left: 144.283px;
+	top: 1.6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8 {
+	fill: rgba(16,115,199,1);
+	stroke: rgba(16,115,199,1);
+	stroke-width: 0.786085844039917px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 61.697px;
+	height: 73.823px;
+	left: 0px;
+	top: 1.926px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_5 {
+	fill: rgba(0,0,0,0);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 169.97px;
+	height: 59.439px;
+	left: 23.74px;
+	top: 85.621px;
+}
+#SPIN {
+	mix-blend-mode: normal;
+	left: 23.741px;
+	top: 70.579px;
+	position: absolute;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Calibri-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 54px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 2.29px;
+}
+#TopSpin_develops_tooling_and_a {
+	left: 899px;
+	top: 495px;
+	position: absolute;
+	overflow: hidden;
+	width: 579px;
+	height: 367px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(173,76,76,1);
+}
+#Component_1__1 {
+	position: absolute;
+	width: 554px;
+	height: 28px;
+	left: 923px;
+	top: 97px;
+	overflow: visible;
+}
+#Home {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Products_y {
+	left: 138px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Products.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#About_z {
+	left: 315px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Location_ {
+	left: 461px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Location.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
